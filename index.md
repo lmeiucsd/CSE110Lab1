@@ -27,8 +27,14 @@ Here are frameworks I am familiar with, in an unordered list:
 - PyTorch
 
 ## Pictures
+
+### Sequoia and Kings Canyon National Park
 ![Sequoia and Kings Canyon National Park](IMG_1206.jpg)
+
+### Yosemite Falls
 ![Yosemite Falls](IMG_1364.jpg)
+
+### Lake Tahoe
 ![Lake Tahoe](IMG_1444.jpg)
 
 
@@ -47,5 +53,6 @@ I know how to [reverse a linked list](reverse.md)
 - [x] Relative Links
 - [x] Ordered and Unordered Lists
 - [x] Task lists
+- [] Maybe polish this to an actual portfolio
 
 
