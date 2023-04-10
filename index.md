@@ -53,6 +53,6 @@ I know how to [reverse a linked list](reverse.md)
 - [x] Relative Links
 - [x] Ordered and Unordered Lists
 - [x] Task lists
-- [] Maybe polish this to an actual portfolio
+- [ ] Maybe polish this to an actual portfolio
 
 
